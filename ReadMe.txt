@@ -1,0 +1,2 @@
+Here we implemented RSA algorithm and encrypted and decrpyted the messages.Used Euclidean GCD ad extended gcd algorithms to find gcd and multiplicate inverse for encryption and decryption
+for now we used only unsigned long int so it wont work for very big public keys we are working on full version
